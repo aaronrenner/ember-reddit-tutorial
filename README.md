@@ -1,8 +1,6 @@
 # Emberreddit
 
-This README outlines the details of collaborating on this Ember application.
-
-A short introduction of this app could easily go here.
+Coffeescript version of the EmberEdit application built here: https://www.youtube.com/watch?v=7twifrxOTQY.
 
 ## Prerequisites
 
